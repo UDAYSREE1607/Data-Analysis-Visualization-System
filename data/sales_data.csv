@@ -1,0 +1,13 @@
+Product,Category,Sales,Profit
+Laptop,Electronics,50000,10000
+Mobile,Electronics,30000,6000
+Tablet,Electronics,20000,4000
+Monitor,Electronics,22000,4500
+Keyboard,Electronics,10000,2000
+Mouse,Electronics,8000,1500
+Chair,Furniture,15000,3000
+Table,Furniture,25000,5000
+Sofa,Furniture,40000,9000
+Printer,Office,18000,3500
+Scanner,Office,12000,2500
+Notebook,Office,5000,1000
