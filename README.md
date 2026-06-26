@@ -112,7 +112,7 @@ Highlights the best-performing products based on sales.
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/UDAYSREE1607/Data-Analysis-Visualization-System>
 ```
 
 ### Install Dependencies
