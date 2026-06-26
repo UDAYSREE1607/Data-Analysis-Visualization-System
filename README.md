@@ -132,12 +132,36 @@ python analysis.py
 ## Sample Output
 
 ```text
-Total Sales: 180000
-Total Profit: 36000
+```text
+Missing Values:
+Product     0
+Category    0
+Sales       0
+Profit      0
+dtype: int64
+
+Total Sales: 255000
+Total Profit: 52000
+
+Highest Selling Product:
+Product        Laptop
+Category  Electronics
+Sales          50000
+Profit         10000
+
+Category Wise Sales:
+Electronics    140000
+Furniture       80000
+Office          35000
+
+```
+
+## Business Insights
 
 Highest Sales Product: Laptop
 Total Categories: 3
-Average Profit: 5142.86
+Average Profit: 4333.33
+
 ```
 
 ---
